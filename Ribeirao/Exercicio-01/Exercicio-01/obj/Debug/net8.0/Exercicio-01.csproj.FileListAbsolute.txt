@@ -1,0 +1,14 @@
+E:\estudos\Exerceicios de concurso\Ribeirao\Exercicio-01\Exercicio-01\bin\Debug\net8.0\Exercicio-01.exe
+E:\estudos\Exerceicios de concurso\Ribeirao\Exercicio-01\Exercicio-01\bin\Debug\net8.0\Exercicio-01.deps.json
+E:\estudos\Exerceicios de concurso\Ribeirao\Exercicio-01\Exercicio-01\bin\Debug\net8.0\Exercicio-01.runtimeconfig.json
+E:\estudos\Exerceicios de concurso\Ribeirao\Exercicio-01\Exercicio-01\bin\Debug\net8.0\Exercicio-01.dll
+E:\estudos\Exerceicios de concurso\Ribeirao\Exercicio-01\Exercicio-01\bin\Debug\net8.0\Exercicio-01.pdb
+E:\estudos\Exerceicios de concurso\Ribeirao\Exercicio-01\Exercicio-01\obj\Debug\net8.0\Exercicio-01.GeneratedMSBuildEditorConfig.editorconfig
+E:\estudos\Exerceicios de concurso\Ribeirao\Exercicio-01\Exercicio-01\obj\Debug\net8.0\Exercicio-01.AssemblyInfoInputs.cache
+E:\estudos\Exerceicios de concurso\Ribeirao\Exercicio-01\Exercicio-01\obj\Debug\net8.0\Exercicio-01.AssemblyInfo.cs
+E:\estudos\Exerceicios de concurso\Ribeirao\Exercicio-01\Exercicio-01\obj\Debug\net8.0\Exercicio-01.csproj.CoreCompileInputs.cache
+E:\estudos\Exerceicios de concurso\Ribeirao\Exercicio-01\Exercicio-01\obj\Debug\net8.0\Exercicio-01.dll
+E:\estudos\Exerceicios de concurso\Ribeirao\Exercicio-01\Exercicio-01\obj\Debug\net8.0\refint\Exercicio-01.dll
+E:\estudos\Exerceicios de concurso\Ribeirao\Exercicio-01\Exercicio-01\obj\Debug\net8.0\Exercicio-01.pdb
+E:\estudos\Exerceicios de concurso\Ribeirao\Exercicio-01\Exercicio-01\obj\Debug\net8.0\Exercicio-01.genruntimeconfig.cache
+E:\estudos\Exerceicios de concurso\Ribeirao\Exercicio-01\Exercicio-01\obj\Debug\net8.0\ref\Exercicio-01.dll
